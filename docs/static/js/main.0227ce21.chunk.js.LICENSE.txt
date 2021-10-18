@@ -1,0 +1,9 @@
+//! Control k + control c para comentar las lineas
+
+//! El signo de interrogacion ? es que si vienen las imagenes se utilicen
+
+//!Se hace el efecto para que cambie solo cuando cambie la categoria
+
+//!Se hace la peticion http proveniente del archivo getGifs()
+
+//!Solo quiero se ejecute el componente cuando el objeto es renderizado por primera vez
